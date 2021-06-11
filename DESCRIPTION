@@ -1,11 +1,11 @@
 Package: ExploreData
 Type: Package
-Title: RaukR 2019 Explore Data Datasets
+Title: RaukR Explore Data Datasets
 Version: 0.0.0.9000
 Author: Sebastian DiLorenzo
 Maintainer: Sebastian DiLorenzo <sebastian.dilorenzo@nbis.se>
 Description: The datasets available for the group project
-   "Exploring data" of RaukR 2019.
+   "Exploring data" of RaukR.
 License: MIT
 Encoding: UTF-8
 LazyData: true
