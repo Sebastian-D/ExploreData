@@ -17,10 +17,6 @@ File downloaded from the IGSR https://www.internationalgenome.org/data FTP site.
 Originally named ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf it is a VCF format file with population allele frequencies of variants on chromosome 22. For size purposes the file supplied in RaukR has been filtered to 20000 random variants across chromosome 22.
 Data is from 2504 individuals. 
 
-```
-system.file("extdata", "heart_attack_analysis_dataset.tar.gz", package="ExploreData", mustWork = T)
-```
-
 ## Heart attack analysis dataset
 
 ### Source
