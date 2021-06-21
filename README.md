@@ -7,7 +7,7 @@ You can find the datasets from within R using:
 ```
 system.file("extdata", "visby_ais.log", package="ExploreData", mustWork = T)
 system.file("extdata", "visby_adsb.log", package="ExploreData", mustWork = T)
-system.file("extdata", "chr22.1000g.vcf", package="ExploreData", mustWork = T)
+system.file("extdata", "chr22.1000g.vcf.tar.gz", package="ExploreData", mustWork = T)
 system.file("extdata", "heart_attack_analysis_dataset.tar.gz", package="ExploreData", mustWork = T)
 ```
 
